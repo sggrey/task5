@@ -1,0 +1,1 @@
+ls -la | sed 's|^d|dir  d|g' | sed 's|^-|file -|g'
