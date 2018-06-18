@@ -1,0 +1,7 @@
+[Fri Feb 24 11:05:39 2017] [:error] [pid 25832] [client 127.0.0.1:50274] PHP Notice:  Undefined variable: top_news in /var/www/zabudovnyk/application/modules/resale/views/scripts/advert/cardsale.phtml on line 305
+[Wed May 10 11:05:47 2017] [:error] [pid 25827] [client 127.0.0.1:50286] PHP Notice:  Undefined variable: top_news in /var/www/zabudovnyk/application/modules/resale/views/scripts/advert/cardsale.phtml on line 305
+[Thu May 18 11:05:53 2017] [:error] [pid 25829] [client 127.0.0.1:50294] PHP Notice:  Undefined variable: complex_all in /var/www/zabudovnyk/application/models/Developer.php on line 371
+[Mon Apr 02 11:05:53 2018] [:error] [pid 25829] [client 127.0.0.1:50294] PHP Notice:  Undefined variable: complex_all in /var/www/zabudovnyk/application/models/Developer.php on line 372
+[Tue Apr 10 11:05:53 2018] [:error] [pid 25829] [client 127.0.0.1:50294] PHP Warning:  Invalid argument supplied for foreach() in /var/www/zabudovnyk/application/modules/default/controllers/DeveloperController.php on line 190
+[Thu May 24 11:06:11 2018] [:error] [pid 28587] [client 127.0.0.1:50308] PHP Notice:  Undefined variable: top_news in /var/www/zabudovnyk/application/modules/resale/views/scripts/advert/cardsale.phtml on line 305
+[Fri May 25 11:06:27 2018] [:error] [pid 28587] [client 127.0.0.1:50326] PHP Notice:  Undefined variable: top_news in /var/www/zabudovnyk/application/modules/resale/views/scripts/advert/cardsale.phtml on line 305
