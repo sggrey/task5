@@ -1,0 +1,4 @@
+sitemap requests found: 536
+robots.txt requests found: 120
+robot requests found: 1660
+bot requests found: 6388
